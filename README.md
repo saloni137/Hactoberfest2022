@@ -22,13 +22,13 @@ Check out `good-first-issues` for contributing [here](https://github.com/sj50270
 
 <br>
 
- 
 
+ 
 ### Author
 
-* **Saloni Saraiya**
-* [Twitter](https://twitter.com/salonii131)
-* [GitHub](https://github.com/saloni137)
+* **Saloni Malaiya**
+* [Twitter](https://twitter.com/Saloni18312589)
+* [GitHub](https://github.com/sj5027052)
 
 
  
