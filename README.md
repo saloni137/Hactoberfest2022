@@ -26,9 +26,9 @@ Check out `good-first-issues` for contributing [here](https://github.com/sj50270
 
 ### Author
 
-* **Saloni Malaiya**
-* [Twitter](https://twitter.com/Saloni18312589)
-* [GitHub](https://github.com/sj5027052)
+* **Saloni Saraiya**
+* [Twitter](https://twitter.com/salonii131)
+* [GitHub](https://github.com/saloni137)
 
 
  
